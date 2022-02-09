@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+
+button{
+    margin-top: 100px;
+    width: 400px !important;
+    font-size: 25px !important;
+
+}
